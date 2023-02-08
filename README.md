@@ -103,3 +103,5 @@ To run the spider and save the data to a file:
 ```
 scrapy crawl primalB -O primal1.json
 ```
+<br> Take note: -O is for overwriting the file.
+<br> Take note: -o is for appending to the file.
