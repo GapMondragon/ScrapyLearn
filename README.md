@@ -99,7 +99,7 @@ Now that we have tested how to get the data that we need:
 
 To run the spider and save the data to a file:
 <br> Go to the base folder /primalBrew
-<br> Use the following command, replacing primalB with the desired name for the spider and primal1.json with the desired name for the output file
+<br> Then use the following command, replacing primalB with the desired name for the spider and primal1.json with the desired name for the output file
 ```
 scrapy crawl primalB -O primal1.json
 ```
