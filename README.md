@@ -94,9 +94,8 @@ response.css('a.action.next').attrib['href']
 ```
 
 Now that we have tested how to get the data that we need:
-Create a spider file in primalBrew/primalBrew/spiders/
-For this one we will call it primalBrew_spider.py
-Edit it accordingly.
+<br> Create a spider file in primalBrew/primalBrew/spiders<br><br> For this one we will call it primalBrew_spider.py
+<br> Edit it accordingly.
 
 To run the spider and save the data to a file, use the following command, replacing primalB with the desired name for the spider and primal1.json with the desired name for the output file
 ```
