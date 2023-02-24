@@ -7,9 +7,9 @@ apt-get update
 apt-get upgrade
 ```
 
-Create a virtual environment and activate it by running the following commands:
+Create a virtual environment and activate it by running the following commands (in sh):
 ```
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ```
 
